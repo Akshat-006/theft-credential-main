@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# loose debug files from earlier attempts
+scratch/
+/debug_*.py
+/test_*.py
+
+# generated data (can be recreated with src/generate_data.py)
+data/raw/
+data/processed/

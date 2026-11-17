@@ -1,0 +1,6 @@
+{
+  "logistic_regression_threshold": 0.7549684767489133,
+  "random_forest_threshold": 0.2199687305061258,
+  "isolation_forest_threshold": -0.03803859085958064,
+  "isolation_forest_contamination": 0.0045
+}

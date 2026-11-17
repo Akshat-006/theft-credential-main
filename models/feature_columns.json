@@ -1,0 +1,21 @@
+[
+  "hour_sin",
+  "hour_cos",
+  "day_of_week",
+  "is_weekend",
+  "is_new_device",
+  "is_new_country",
+  "is_new_ip",
+  "distance_km",
+  "travel_speed_kmph",
+  "failed_attempts_10min",
+  "failed_attempts_24h",
+  "ip_attempts_10min",
+  "distinct_accounts_per_ip_10min",
+  "time_since_last_login",
+  "device_seen_count",
+  "country_seen_count",
+  "login_success",
+  "is_vpn_or_tor",
+  "session_ip_changed"
+]
